@@ -1,0 +1,43 @@
+
+.outer
+{
+    position: relative;
+    margin: auto;
+    margin-left: 42%;
+    margin-top: 15%;
+   
+}
+.cir
+{
+    position: absolute;
+    display: flex;
+
+}
+.c1
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 7.3px;
+}
+.c2
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 51%;
+    margin-right: 8px;
+}
+.r1
+{
+    position: absolute;
+    height: 115.2px;
+    width: 109.2px;
+    background-color: black;
+    transform: rotate(45deg);
+    margin-top:32px ;
+    margin-left: 55px;
+    border-top-left-radius: 75%;
+
+}
